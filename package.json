@@ -1,0 +1,53 @@
+{
+  "name": "passport-twitch-api",
+  "version": "0.0.1",
+  "description": "Twitch API 2022(OAuth) authentication strategies for Passport.",
+  "keywords": [
+    "passport",
+    "twitch",
+    "auth",
+    "authn",
+    "authentication",
+    "identity",
+    "oauth",
+    "oauth2",
+    "strategy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PRANAVVK10/passport-twitch-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PRANAVVK10/passport-twitch-api/issues"
+  },
+  "author": {
+    "name": "Pranav V K",
+    "email": "pranavvk10@gmail.com",
+    "url": "https://github.com/PRANAVVK10/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-twitch",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2",
+    "pkginfo": "0.2.x"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "maintainers": [
+    {
+      "name": "Pranav V K",
+      "email": "pranavvk10@gmail.com"
+    }
+  ],
+  "directories": {},
+  "homepage": "https://github.com/PRANAVVK10/passport-twitch-api"
+}
